@@ -21,7 +21,7 @@ Graph Representation: The metro network is represented as a 2D vector where each
 
 Dijkstra's Algorithm: The algorithm is used to compute the shortest paths from the source station to all other stations. The minimum distance to the destination station is then printed.
 
-Priority Queue: A set is used to implement a priority queue that helps in selecting the next station with the smallest known distance.
+Set for Priority Management: A set is used to manage the stations based on their current shortest distance. This helps in selecting the next station with the smallest known distance efficiently.
 
 
 How to Use:-
